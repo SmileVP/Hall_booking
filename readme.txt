@@ -1,7 +1,5 @@
-
 Hi Welcome to my Hall Booking API Task.
-
-I have deployed this in Render.
+I have deployed this task in Render.
 https://hall-booking-l4ak.onrender.com
 
 1. We can create a room with https://hall-booking-l4ak.onrender.com/create_room
